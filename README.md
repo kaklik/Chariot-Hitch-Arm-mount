@@ -1,4 +1,4 @@
-# Chariot-Hitch-Arm-mount
+# Chariot Stroller Hitch-Arm mount for Montague bicycle
 
 ![Mounted Chariot CX1 to bicycle](doc/img/chariot_CX1_mounted.jpg)
 
