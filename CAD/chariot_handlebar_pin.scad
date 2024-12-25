@@ -1,7 +1,7 @@
 pin_diameter=6.5;
 pin_lenght=5;
 handlebar_diameter=14.5;
-pin_base_height=5;
+pin_base_height=3;
 spring_diameter=2;
 $fn=100;
 
